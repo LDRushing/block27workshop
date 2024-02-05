@@ -1,3 +1,12 @@
+body {
+  background:linear-gradient(
+    45deg,
+    rgb(255, 237, 70) 0%,
+    rgb(76, 0, 56) 50%
+  );
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 #root {
   max-width: 1280px;
   margin: 0 auto;
